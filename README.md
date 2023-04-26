@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! My name is Wojciech, I studied Computer Science in Częstochowa University of Technology which I graduated in 2022 with a Bachelor of Engineering degree. I'm deeply interested in microservices and Event Driven Architecture. <br/>
+💻 Hi! My name is Wojciech, I studied Computer Science in Częstochowa University of Technology which I graduated in 2022 with a Bachelor of Engineering degree. I'm deeply interested in microservices and Event Driven Architecture. <br/>
+🕹️ After work I'm enthusiast of retro games consoles and video games.
 
 
 ## 🌐 Socials:
